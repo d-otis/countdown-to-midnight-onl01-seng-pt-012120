@@ -3,7 +3,7 @@ require "pry"
 
 def countdown(num)
   while num > 0
-    puts ""
+    puts "#{number} SECOND(S)!"
   end
 end
 
